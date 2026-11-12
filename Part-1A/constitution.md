@@ -1,0 +1,12 @@
+Constitution
+Guiding Principles
+Simplicity First
+Testability
+Deterministic Behaviour
+Maintainable Design
+Clear Documentation
+Quality Gates
+Requirements documented
+Tasks traceable to requirements
+Outputs reproducible
+Documentation complete
