@@ -1,0 +1,17 @@
+[
+  {"input":"Remind me to call John tomorrow at 10 AM","expected":"Call John"},
+  {"input":"Schedule dentist appointment next Monday","expected":"Dentist appointment"},
+  {"input":"Pay electricity bill on Friday","expected":"Pay electricity bill"},
+  {"input":"Team meeting at 2 PM","expected":"Team meeting"},
+  {"input":"Submit assignment tomorrow","expected":"Submit assignment"},
+  {"input":"Buy groceries this evening","expected":"Buy groceries"},
+  {"input":"Renew passport next month","expected":"Renew passport"},
+  {"input":"Book flight tickets","expected":"Book flight tickets"},
+  {"input":"Send project update","expected":"Send project update"},
+  {"input":"Attend training session","expected":"Attend training session"},
+  {"input":"Pay rent on first day of month","expected":"Pay rent"},
+  {"input":"Schedule annual checkup","expected":"Annual checkup"},
+  {"input":"Prepare presentation","expected":"Prepare presentation"},
+  {"input":"Review pull request","expected":"Review pull request"},
+  {"input":"Order office supplies","expected":"Order office supplies"}
+]
